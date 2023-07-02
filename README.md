@@ -1,1 +1,1 @@
-# Shyft_Bounty
+# Shyft_Bounty_Wallet_Sense
